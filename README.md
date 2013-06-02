@@ -1,7 +1,7 @@
 spring-mongo-rest-seed
 ======================
 
-using springmvc, maven, mongo, and jetty to build a restful seed project
+using springmvc, maven, mongo, and jetty to build a spring-based restful seed project
 
 
 ### Usage
