@@ -1,14 +1,14 @@
 spring-mongo-rest-seed
 ======================
 
-using springmvc, maven, mongo, and jetty to build a spring-based restful seed project
+using springmvc, maven, mongo, and jetty to build a spring-based mongo-driven restful seed project
 
 
 ### Usage
 
 1. Install & Run
 
-        git clone https://github.com/yaoyi/spring-rest-seed.git
+        git clone https://github.com/yaoyi/spring-mongo-rest-seed.git
         cd server
         mvn compile
         mvn jetty:run
